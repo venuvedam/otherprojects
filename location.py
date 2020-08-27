@@ -2,7 +2,7 @@ import requests
 import json
 
 filelocation="C:\Users\\venuved\OneDrive - Microsoft\Desktop\locationhistory-new-small.csv"
-apikey="raV3ssnYZNb-KNSezhtv1bOIQha0c0w_N7CLzSrLei0"
+apikey="vxcvzxcvzxcv"
 file=open(filelocation, "r")
 for line in file:
     a=line.split(",")
@@ -19,4 +19,4 @@ for line in file:
 
 file.close
 
-#https://atlas.microsoft.com/search/address/reverse/json?api-version=1.0&subscription-key=raV3ssnYZNb-KNSezhtv1bOIQha0c0w_N7CLzSrLei0&language=en-US&query=47.591180,-122.332700&number=1
+#https://atlas.microsoft.com/search/address/reverse/json?api-version=1.0&subscription-key=dfasdffsadfa0&language=en-US&query=47.591180,-122.332700&number=1
