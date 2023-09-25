@@ -1,0 +1,9 @@
+{
+	"name": "piad-msx-poc",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4c428f38-d01d-43f8-a8ef-9f4bd613810e",
+		"tenantId": "16b3c013-d300-468d-ac64-7eda0820b6d3"
+	}
+}
