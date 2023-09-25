@@ -1,0 +1,16 @@
+{
+	"name": "Dynamics1",
+	"properties": {
+		"annotations": [],
+		"type": "Dynamics",
+		"typeProperties": {
+			"deploymentType": "Online",
+			"serviceUri": "https://ocp.crm.dynamics.com",
+			"authenticationType": "ManagedIdentity",
+			"credential": {
+				"referenceName": "credential1",
+				"type": "CredentialReference"
+			}
+		}
+	}
+}
